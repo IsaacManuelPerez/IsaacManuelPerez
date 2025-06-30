@@ -1,4 +1,4 @@
-Isaac Pérez
+##  Isaac Pérez
 
 Analista de Datos | Transformando datos en decisiones estratégicas 📊💻
 
@@ -7,10 +7,15 @@ Apasionado por el análisis de datos y la generación de valor a través de la i
 🔧 Herramientas clave:
 
 📊 Power BI
+
 🗄 SQL Server
+
 📑 Excel
+
 🐍 Python
+
 📉 R
+
 💡 ¿Cómo genero valor?
 
 • Desarrollo dashboards interactivos que impulsan decisiones basadas en datos.
