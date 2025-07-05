@@ -18,7 +18,7 @@ Apasionado por el análisis de datos y la generación de valor a través de la i
 
 📉 R
 
-💡 ¿Cómo genero valor?
+💡 ¿Cómo generó valor?
 
 • Desarrollo dashboards interactivos que impulsan decisiones basadas en datos.
 
