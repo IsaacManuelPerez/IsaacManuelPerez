@@ -28,3 +28,6 @@ Apasionado por el análisis de datos y la generación de valor a través de la i
 
 • Identifico oportunidades de mejora continua mediante análisis enfocados en la eficiencia y resultados.
 
+Contacto
+email: imperez@correo.unicordoba.edu.co
+Cel: (+57) 310 454 4247
